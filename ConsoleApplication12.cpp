@@ -23,6 +23,7 @@ int partition(int arr[], int low, int high) {
     //изменения
     //ффллфарловирашыдруаолыдаипыв
     //ааа
+    //ф
 }
 // Основная функция быстрой сортировки
 void quickSort(int arr[], int low, int high) {
